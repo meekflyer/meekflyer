@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meekflyer
-- 👀 I’m interested in creating applications that help my in my career as a military aviator, and foreign affairs officer for the USAF.
+- 👀 I’m interested in creating an open source application that amps up how we use "contact" tools.
 - 🌱 I’m currently learning Swift and SwiftUI for MacOS.
 - 💞️ I’m not looking to collaborate on anything yet, just learning how things work here.
 - 📫 Reach me at meek@meekflyer.net!
